@@ -1,0 +1,4 @@
+- Prepare a file converter that converts .pdf, .docx, .jpg, .png which should be  interconvertible.
+- Prepare a feature that will be able to compress them to their desired sizes using percentage of their sizes.
+- Should be able to show its contents in a preview window.
+- Should be able to prove that there is no data given to any server and everything is done locally.
